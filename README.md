@@ -34,10 +34,6 @@ Using vector arithmetic, semantic relationships were evaluated:
 
 The overall cosine similarity scores remained relatively low (~0.37-0.45), and analogy outputs occasionally yielded frequent but loosely related institutional words rather than perfect logical matches. This reflects the limitations of training a Word2Vec model on a small, domain-specific corpus.
 
-### 3. PCA Visualization
-A 2D Principal Component Analysis (PCA) projection was utilized to visualize the clustering behavior of the learned embeddings.
-
-![PCA Visualization](image_a7c69c.png)
 
 ---
 
